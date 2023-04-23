@@ -1,0 +1,50 @@
+*{
+    margin-top:20;
+    padding: 0;
+}
+body{
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #e0e3c5;
+
+}
+h1{
+    
+    color: rgb(15, 140, 243);
+}
+h2{
+   
+    color: rgba(96, 247, 164, 0.909);
+    font-family: 'Merriweather', serif;
+}
+p{
+    
+    color: gray;
+    
+
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+a:hover{
+    background-color: rgb(193, 222, 193);
+    border-radius: 5px;
+ 
+
+}
+#todays-challenge{
+    color: green;
+    font-size: 53px;
+    font-family: 'Anuphan', sans-serif;
+}
+img{
+
+    border-radius:100px;
+    height: 200px;
+    width: 200px; 
+}
+
